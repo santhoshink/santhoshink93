@@ -28,7 +28,7 @@ education:
   - course: PhD in Electrical and Computer Engineering
     institution: Rice University
     year: 2017-2023
-  - course: MEng in Artificial Intelligence
+  - course: MBE in Artificial Intelligence
     institution: Rice University
     year: 2016
   - course: BTech in Biomedical Engineering
@@ -48,13 +48,13 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=u7hXpYIAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/santhoshink/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/skrishnan19
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +70,11 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a fifth-year PhD student in the Department of  Electrical and Computer Engineering, with a data science specialization at Rice University, in the multicultural city of Houston. I am currently co-advised by Dr Ankit Patel and Dr Arvind Rao, who is based at the University of Michigan, where I am currently a visiting student. I’m interested in leveraging Machine Learning and statistical methods to develop sound frameworks that could be used to improve disease prediction and prognosis, especially in the cancer domain.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Along with my research, I am also quite active in mentoring younger lab members, as well as undergraduate and high school students that rotate in our lab. I have also been part of multiple organizational committees, including the new graduate student orientation committees for 2016 and 2018, and ISAR.
 
+Outside of research, I’m an avid reader(though these days the term bibliophile might be more appropriate), love to sing in non-competitive avenues, hiking, and planespotting.
+
+You can find my current CV here
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

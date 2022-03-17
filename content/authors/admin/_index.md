@@ -43,9 +43,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=u7hXpYIAAAAJ&hl=en
@@ -74,7 +71,5 @@ I’m a fifth-year PhD student in the Department of  Electrical and Computer Eng
 
 Along with my research, I am also quite active in mentoring younger lab members, as well as undergraduate and high school students that rotate in our lab. I have also been part of multiple organizational committees, including the new graduate student orientation committees for 2016 and 2018, and ISAR.
 
-Outside of research, I’m an avid reader(though these days the term bibliophile might be more appropriate), love to sing in non-competitive avenues, hiking, and planespotting.
-
 You can find my current CV here
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}.
